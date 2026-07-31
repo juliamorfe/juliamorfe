@@ -1,20 +1,18 @@
 <div align="center">
 
-### ☁️Yellow!☁️
-
-<div align="center">
-
 ### ☁️ Yellow! ☁️
 
 ✨ I'm a Computer Science Student
-🆘 Currently doing my thesis (Honestly, I don't want it anymore, please send help!)
+🆘 Currently doing my thesis (HELP💀)
 📊 I'm currently studying Data Analytics
 📚 I love to read fiction
+📖 Currently reading: The Courage to be Disliked (a fiction-style dialogue)
 
 ---
 
-*If you love slowburn romance, I vouch for Mariana Zapata!*
-*Historical Rom-Com? Tessa Dare (A Week to be Wicked is a great place to start!)*
+✨ *If you love slowburn romance, I vouch for Mariana Zapata!*
+
+✨ *Light Historical Rom-Com? Tessa Dare (A Week to be Wicked is a great place to start!)*
 
 </div>
 
