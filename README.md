@@ -1,4 +1,10 @@
-<div align="center">
+<br> <!-- Adds a little space from the top of the profile -->
+
+<table align="center" border="0">
+  <tr>
+    <!-- LEFT COLUMN: Text -->
+    <td width="50%" valign="top">
+      <div align="left">
 
 ### ☁️ Yellow! ☁️
 
@@ -14,11 +20,23 @@
 
 ---
 
-✨ *If you love slowburn romance, I vouch for Mariana Zapata!*
+✨ *Slowburn: Mariana Zapata*
 
-✨ *Light Historical Rom-Com? Tessa Dare (A Week to be Wicked is a great place to start!)*
+✨ *Light Historical Rom-Com: Tessa Dare (A Week to be Wicked)*
 
-</div>
+      </div>
+    </td>
+
+    <!-- RIGHT COLUMN: Image -->
+    <td width="50%" valign="center">
+      <div align="center">
+        <img src="YOUR_IMAGE_URL_HERE" alt="Doing my best mug" width="300px" />
+        <p><em>Just like this little mug, I'm doing my best!</em></p>
+      </div>
+    </td>
+  </tr>
+</table>
+
 
 
 <!--
