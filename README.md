@@ -2,17 +2,18 @@
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>☁️ Yellow! ☁️</h3>
+        <h3>☁️ Yellow! ☁️</h3> <br>
       </div>
       <ul>
         <li>I'm a Computer Science Student</li>
-        <li>Currently doing my thesis (HELP💀)</li>
+        <li>Currently doing my thesis (HELP)</li>
         <li>I'm currently studying Data Analytics</li>
-        <li>I love to read fiction</li>
+        <li>I love to read fiction and romcoms</li>
         <li>Currently reading: The Courage to be Disliked (fictional-style dialogue)</li>
       </ul>
-      <p>🐱 <strong>Help my thesis!</strong> <a href="https://docs.google.com/forms/d/e/1FAIpQLSfzcB0DhVfAV2yn1EGH2nocwdSw7EaDJGb2tA8cXJfWlfnx9Q/viewform">Click here</a> to share your cat photos for my dataset.</p>
+      <p>📑<strong>Help my thesis!</strong> <a href="https://docs.google.com/forms/d/e/1FAIpQLSfzcB0DhVfAV2yn1EGH2nocwdSw7EaDJGb2tA8cXJfWlfnx9Q/viewform">Click here</a> to share your cat photos for my dataset.</p>
       <hr>
+      <p><strong>✨Let's swap book recommendations!✨</strong></p>
       <p><em> ⛉ Slowburn: Mariana Zapata</em></p>
       <p><em> ⛉ Light Historical Rom-Com: Tessa Dare (A Week to be Wicked)</em></p>
     </td>
