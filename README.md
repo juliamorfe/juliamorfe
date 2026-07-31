@@ -3,9 +3,13 @@
 ### ☁️ Yellow! ☁️
 
 ✨ I'm a Computer Science Student
+
 🆘 Currently doing my thesis (HELP💀)
+
 📊 I'm currently studying Data Analytics
+
 📚 I love to read fiction
+
 📖 Currently reading: The Courage to be Disliked (a fiction-style dialogue)
 
 ---
