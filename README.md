@@ -30,7 +30,7 @@
     <!-- RIGHT COLUMN: Image -->
     <td width="50%" valign="center">
       <div align="center">
-        <img src="YOUR_IMAGE_URL_HERE" alt="Doing my best mug" width="300px" />
+        <img src="YOUR_IMAGE_URL_HERE" alt="hobby_image" width="300px" />
         <p><em>Just like this little mug, I'm doing my best!</em></p>
       </div>
     </td>
