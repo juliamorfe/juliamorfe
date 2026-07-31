@@ -17,7 +17,7 @@
       <p><em> ⛉ Light Historical Rom-Com: Tessa Dare (A Week to be Wicked)</em></p>
     </td>
     <td width="50%" valign="top" align="center">
-      <img src="https://github.com/user-attachments/assets/806e579e-7e17-436c-b295-0c9b91f03f35" alt="hobby_image" style="width: 100%; max-width: 300px; height: auto; border-radius: 10px;" />
+      <img width="736" height="920" alt="Image" src="https://github.com/user-attachments/assets/7b08ae1b-d82e-472f-9909-2ea932729a2b" alt="image" style="width: 100%; max-width: 300px; height: auto; border-radius: 10px;" />
     </td>
   </tr>
 </table>
