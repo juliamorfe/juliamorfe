@@ -1,4 +1,23 @@
-## Hi there 👋
+<div align="center">
+
+### ☁️Yellow!☁️
+
+<div align="center">
+
+### ☁️ Yellow! ☁️
+
+✨ I'm a Computer Science Student
+🆘 Currently doing my thesis (Honestly, I don't want it anymore, please send help!)
+📊 I'm currently studying Data Analytics
+📚 I love to read fiction
+
+---
+
+*If you love slowburn romance, I vouch for Mariana Zapata!*
+*Historical Rom-Com? Tessa Dare (A Week to be Wicked is a great place to start!)*
+
+</div>
+
 
 <!--
 **juliamorfe/juliamorfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
